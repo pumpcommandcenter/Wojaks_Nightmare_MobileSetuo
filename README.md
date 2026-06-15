@@ -1,4 +1,4 @@
-# Wojaks_Nightmare_MobileSetuo
+# Wojaks_Nightmare_MobileSetup
 Production Architeofor Wojaks Nightnares for Mobile.
 Wojaks_Nightmares/
 │
